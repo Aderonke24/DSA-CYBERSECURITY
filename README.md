@@ -4,13 +4,12 @@
 ---
 ---
 
-   ### ***Project Type***
-   
-   
-   
+   ### ***Project Type***  
 Individual project only. No group work is allowed.
+---
+---
 
-Project Breakdown
+### Project Breakdown
 You are required to complete the following tasks:
 
 ***Task 1*** (Compulsory): Set up a fully functional virtual cybersecurity lab.
@@ -19,4 +18,10 @@ You are required to complete the following tasks:
 
 ***Task 3*** (Optional for Bonus Points): Deploy a virtual firewall to simulate an enterprise-grade network security environment.
 
+---
+---
+Task 1 started by downloading all the executable files needed for this project.
+I downloaded: - 1. Virtualbox (it didn't work on my system, I opted in for Hyper-V manager on my Windows O/S)
+- 2. Windows 10 ISO
+  3. Kali linux
 
