@@ -20,7 +20,7 @@ You are required to complete the following tasks:
 
 ---
 ---
-Task 1 started by downloading all the executable files needed for this project.
+## **Task 1: started by downloading all the executable files needed for this project**
 
 - A. I downloaded:
 - 1. Virtualbox (it didn't work on my system, I opted in for Hyper-V manager on my Windows O/S) [Download Here](https://www.virtualbox.org)
