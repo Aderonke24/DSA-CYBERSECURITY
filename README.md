@@ -94,7 +94,10 @@ Task 1 started by downloading all the executable files needed for this project.
            - ping the IP address (10.10.10.1) of Windows virtual Machine on Kali.
            - ping the IP address of Kali (10.10.10.2) on Windows
          -  if both can communicate through ping command or share file, the virtual security lab has been created.
-           Command
+
+
+Command
+
  ```
  ping 10.10.10.1
 
