@@ -70,7 +70,7 @@ Task 1 started by downloading all the executable files needed for this project.
           ### ***FUNCTIONAL VIRTUAL CYBERSECURITY LAB SET UP***
  
      
-         - Create a virtual Switch: Private Switch and External Switch
+         - Create a virtual Switch: Private Switch (for communication between the Virtual machines **ONLY** usually for testing attack scenerio and External Switch (Ta gain access to the internet)  
          - Connect both virtual Machines to thesame switch for them to communicate.
          - if both can communicate through ping command or share file, the virtual security llab has been created.
 
