@@ -68,6 +68,8 @@ Task 1 started by downloading all the executable files needed for this project.
           - Adjust the display resolution
           - Log in with the default credentials "kali" for both username and password.
    - C.  ## ***Functional Virtual Security Lab Set up***
+ 
+     
          - Create a virtual Switch: Private Switch and External Switch
          - Connect both virtual Machines to thesame switch for them to communicate.
          - if both can communicate through ping command or share file, the virtual security llab has been created.
