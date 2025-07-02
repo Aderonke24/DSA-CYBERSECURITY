@@ -22,7 +22,7 @@ You are required to complete the following tasks:
 ---
 ## **Task 1: started by downloading all the executable files needed for this project**
 
-- A. I downloaded:
+- A. I downloaded and Extract:
 - 1. Virtualbox (it didn't work on my system, I opted in for Hyper-V manager on my Windows O/S) [Download Here](https://www.virtualbox.org)
 
 
