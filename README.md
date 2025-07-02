@@ -72,5 +72,38 @@ Task 1 started by downloading all the executable files needed for this project.
      
          - Create a virtual Switch: Private Switch (for communication between the Virtual machines **ONLY** usually for testing attack scenerio and External Switch (Ta gain access to the internet)  
          - Connect both virtual Machines to thesame switch for them to communicate.
-         - if both can communicate through ping command or share file, the virtual security lab has been created.
+           - Right click the Virtual Machine individually
+           - select "settings"
+           - select "Network Adapter" on the Right pane
+           - choose the Virtual switch from the drop down on the Left pane
+           - click ok.
+         - configure the IP address for the Virtual machines individaully
+           - For Kali Linux Virtual machine:
+             - on the Root Terminal, Run ``` ifconfig  ```  to see the list of network interfaces and their current settings, IP addresses, netmasks and broadcast addresses.
+             - take note of the interface you are to configure e.g., eth0, lo
+             - Run ``` ifconfig lo 10.10.10.2 netmask 255.255.255.0 ```  to change the IP address.
+           - For Windows 10 Virtual machine:
+             - go to Network settings
+             - Right click the Adapter and select properties
+             - click change network adapter
+             - select IPV4
+             - check the Static box
+             - enter the IP and subnet mask: 10.10.10.1 and 255.255.255.0 respectively.
+             - click ok
+           - open Root Terminal on kali Linux and Command prompt on Windows virtual machines.
+           - ping the IP address (10.10.10.1) of Windows virtual Machine on Kali.
+           - ping the IP address of Kali (10.10.10.2) on Windows
+         -  if both can communicate through ping command or share file, the virtual security lab has been created.
+           Command
+ ```
+ ping 10.10.10.1
+
+ ```
+
+ ```
+ ping 10.10.10.2
+
+ ```
+
+
 
