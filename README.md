@@ -67,7 +67,7 @@ Task 1 started by downloading all the executable files needed for this project.
           - right click on the new Virtual machine in Hyper-V manager and select "connect"
           - Adjust the display resolution
           - Log in with the default credentials "kali" for both username and password.
-   - C.  ## ***Functional Virtual Security Lab Set up***
+   - C.  ## ***FUNCTIONAL VIRTUAL CYBERSECURITY LAB SET UP***
  
      
          - Create a virtual Switch: Private Switch and External Switch
