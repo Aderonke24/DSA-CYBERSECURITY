@@ -51,7 +51,7 @@ You are required to complete the following tasks:
           - after installation,right click on the new virtual machine(Lab) and select "connect"
           - Adjust the display resolution
           - sign in to the new Virtual Machine.
-     - 2. Virtual Machine for Windows 10 (Named: "Kali Linux")
+     - 2. Virtual Machine for Kali Linux (Named: "Kali Linux")
        - Open Hyper-V manager and Click "New" in the left pane and select "Virtul machine", follow the instructions to create the virtual machine.
        - Specify name (Kali Linux) and location
        - specify generation
