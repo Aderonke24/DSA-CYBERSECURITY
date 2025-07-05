@@ -70,7 +70,7 @@ You are required to complete the following tasks:
           ### ***FUNCTIONAL VIRTUAL CYBERSECURITY LAB SET UP***
  
      
-         - Create a virtual Switch: Private Switch (for communication between the Virtual machines **ONLY** usually for testing attack scenerio and External Switch (Ta gain access to the internet)  
+         - 	Create a virtual Switch: Private Switch (for communication between the Virtual machines Only, Internal switch for communication between the virtual machines and the host without connection to the host’s physical network and External Switch (To gain access to the internet through the host network adapter)
          - Connect both virtual Machines to thesame switch for them to communicate.
            - Right click the Virtual Machine individually
            - select "settings"
