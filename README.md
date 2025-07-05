@@ -34,7 +34,7 @@ You are required to complete the following tasks:
      - The laptop was restarted to effect the change.
 - 2. Windows 10 ISO file (to be installed on one of the virtual machines created on the Hyper-V) for Virtualbox, [Download Here](https://www.microsoft.com/en-us/software-download/windows10)
  - 3. Kali linux [Download Here](https://www.kali.org/get-kali/#kali-platforms)
-- B. ## ***CREATION OF TWO VIRTUAL MACHINES***
+- B.  ***CREATION OF TWO VIRTUAL MACHINES***
   - 1. Virtual Machine for Windows 10 (Named: "Lab")
        - Open Hyper-V manager and Click "New" in the left pane and select "Virtul machine", follow the instructions to create the virtual machine.
        - Specify name (Lab) and location
